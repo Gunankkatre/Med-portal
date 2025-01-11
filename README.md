@@ -25,7 +25,7 @@
 
    ```bash
    git clone https://github.com/Gunankkatre/Med-portal.git
-   cd med-portal
+   cd Med-portal
    ```
 2. **Navigate to the Backend folder and install dependencies:**
 
