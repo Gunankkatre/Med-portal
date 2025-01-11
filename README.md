@@ -24,7 +24,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/divyank007/The-Med-Portal.git
+   git clone https://github.com/Gunankkatre/Med-portal.git
    cd med-portal
    ```
 2. **Navigate to the Backend folder and install dependencies:**
